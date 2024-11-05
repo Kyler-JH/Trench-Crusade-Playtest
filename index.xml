@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Trench Crusade Playtest" indexUrl="https://github.com/Kyler-JH/Trench-Crusade-Playtest.git" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Trench Crusade Playtest" indexUrl="https://github.com/Kyler-JH/Trench-Crusade-Playtest/blob/e7d4b32a44b5623e14a1d5d3a066132aaf259edc/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Trench_Crusade.gstz" dataType="gamesystem" dataId="3de7-d8b9-ea04-e90f" dataName="Trench Crusade" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Trench_Pilgrims.catz" dataType="catalogue" dataId="58aa-8142-3868-aa60" dataName="Trench Pilgrims" dataBattleScribeVersion="2.03" dataRevision="1"/>
