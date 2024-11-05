@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Trench Crusade Playtest" indexUrl="https://github.com/Kyler-JH/Trench-Crusade-Playtest.git" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Trench_Crusade.gstz" dataType="gamesystem" dataId="3de7-d8b9-ea04-e90f" dataName="Trench Crusade" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Trench_Pilgrims.catz" dataType="catalogue" dataId="58aa-8142-3868-aa60" dataName="Trench Pilgrims" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="New_Antioch.catz" dataType="catalogue" dataId="d877-0514-0a5b-5660" dataName="New Antioch" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Heretic_Legions.catz" dataType="catalogue" dataId="76ab-e0ab-4925-eb6a" dataName="Heretic Legions" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Black_Grail.catz" dataType="catalogue" dataId="d294-ab09-820d-61cb" dataName="Black Grail" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Iron_Sultanate.catz" dataType="catalogue" dataId="7d48-a9ac-10ae-a9bb" dataName="Iron Sultanate" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
